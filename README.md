@@ -6,8 +6,6 @@ As it stands, the design uses a 350uH magnetic loop antenna I wound myself on a 
 
 ## Project Photos
 
-### Loop Antenna
-![Loop antenna](loop_antenna.jpg)
-
-### Amplifier Testing
-![Amplifier testing](amplifier_testing.jpg)
+| Loop Antenna | Amplifier Testing |
+|:---:|:---:|
+| <img src="loop_antenna.jpg" alt="Loop antenna" width="350"> | <img src="amplifier_testing.jpg" alt="Amplifier testing" width="350"> |
